@@ -10,7 +10,8 @@
 /test
 
 # production
-/build
+/.next
+/.turbo
 
 # misc
 .DS_Store
