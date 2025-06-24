@@ -10,8 +10,8 @@ psql < schema.sql
 
 The schema defines three tables:
 
-- `rooms` &ndash; a room for each planning session
-- `planning_tables` &ndash; a planning board within a room
-- `votes` &ndash; individual votes cast by players
+- `rooms` – a room for each planning session
+- `planning_tables` – a planning board within a room
+- `votes` – individual votes cast by players
 
 Supabase Realtime can be configured to listen to changes on these tables.
