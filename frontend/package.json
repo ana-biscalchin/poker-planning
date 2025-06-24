@@ -1,0 +1,17 @@
+{
+  "name": "poker-planing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "zustand": "4.4.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"No tests defined\" && exit 0"
+  }
+}
